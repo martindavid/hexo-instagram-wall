@@ -21,7 +21,9 @@
     "pretty-hrtime": "^1.0.3",
     "superagent": "^5.1.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^6.4.0"
+  },
   "repository": {
     "type": "git",
     "url": "git@github.com:martindavid/hexo-instagram-wall.git"
